@@ -5,7 +5,7 @@
 - 📫 How to reach me Paschalwilfred86@gmail.com ...
 - 😄 Pronouns: kittolabs ...
 - ⚡ Fun fact: I'm an introvert..
-
+-check my profile @paschalkitorolah.netlify.app
 <!---
 paschalkitorolah17/paschalkitorolah17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
